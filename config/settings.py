@@ -238,7 +238,7 @@ SESSION_COOKIE_AGE = 3600
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:5050",
-    "online-menu-prod.up.railway.app",
+    "https://online-menu-prod.up.railway.app",
 ]
 
 
