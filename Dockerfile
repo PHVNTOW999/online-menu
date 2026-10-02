@@ -14,8 +14,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . ${APP_HOME}
 
-# running migrations
-RUN python manage.py migrate
+# Делаем entrypoint.sh исполняемым и задаем его как точку входа
+RUN chmod +x ${APP_HOME}/entrypoint.sh
+ENTRYPOINT ["/app/entrypoint.sh"]
 
 # gunicorn
 CMD ["gunicorn", "--config", "gunicorn-cfg.py", "config.wsgi"]
