@@ -8,7 +8,7 @@ ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 
 # install Node.js 24 for frontend build (package.json requires >=24)
-RUN apt-get update && apt-get install -y curl && \
+RUN apt-get update && apt-get install -y curl gettext && \
     curl -fsSL https://deb.nodesource.com/setup_24.x | bash - && \
     apt-get install -y nodejs && \
     apt-get clean && rm -rf /var/lib/apt/lists/*
@@ -28,6 +28,9 @@ WORKDIR ${APP_HOME}
 
 # running migrations
 RUN python manage.py migrate
+
+# compile translation messages (.mo files are gitignored, must be built in image)
+RUN python manage.py compilemessages
 
 # collect static files
 RUN python manage.py collectstatic --noinput
