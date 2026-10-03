@@ -35,7 +35,7 @@ DEBUG = os.environ.get("DEBUG", 'True').lower() in ['true', 'yes', '1']
 
 
 # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1", "online-menu-prod.up.railway.app"]
+ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1", "online-menu-prod.up.railway.app", "online-menu-dev.up.railway.app"]
 
 # Current DJANGO_ENVIRONMENT
 ENVIRONMENT = os.environ.get("DJANGO_ENVIRONMENT", default="local")
@@ -239,6 +239,7 @@ SESSION_COOKIE_AGE = 3600
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:5050",
     "https://online-menu-prod.up.railway.app",
+    "https://online-menu-dev.up.railway.app"
 ]
 
 
