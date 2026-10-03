@@ -1,0 +1,574 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-27 12:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n\n"
+
+#: config/settings.py:181
+#: templates/layout/partials/navbar/navbar.html:72
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: config/settings.py:182
+#: templates/layout/partials/navbar/navbar.html:77
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: config/settings.py:183
+#: templates/layout/partials/navbar/navbar.html:82
+msgid "Korean"
+msgstr "Tiếng Hàn"
+
+msgid "eCommerce"
+msgstr "Thương mại điện tử"
+
+msgid "Referrals"
+msgstr "Giới thiệu"
+
+msgid "Icons"
+msgstr "Biểu tượng"
+
+msgid "Academy"
+msgstr "Học viện"
+
+msgid "My Course"
+msgstr "Khóa học của tôi"
+
+msgid "Course Details"
+msgstr "Chi tiết khóa học"
+
+msgid "Permissions"
+msgstr "Quyền hạn"
+
+msgid "List"
+msgstr "Danh sách"
+
+msgid "Roles"
+msgstr "Vai trò"
+
+msgid "UI elements"
+msgstr "Thành phần giao diện"
+
+msgid "Cards"
+msgstr "Thẻ"
+
+msgid "Actions"
+msgstr "Hành động"
+
+msgid "Advance"
+msgstr "Nâng cao"
+
+msgid "Analytics"
+msgstr "Phân tích"
+
+msgid "Basic"
+msgstr "Cơ bản"
+
+msgid "Gamifications"
+msgstr "Trò chơi hóa"
+
+msgid "Statistics"
+msgstr "Thống kê"
+
+msgid "Charts"
+msgstr "Biểu đồ"
+
+msgid "Apex Charts"
+msgstr "Biểu đồ Apex"
+
+msgid "ChartJS"
+msgstr "ChartJS"
+
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+msgid "CRM"
+msgstr "CRM"
+
+msgid "Category List"
+msgstr "Danh sách danh mục"
+
+msgid "All Customers"
+msgstr "Tất cả khách hàng"
+
+msgid "Customer Details"
+msgstr "Chi tiết khách hàng"
+
+msgid "Address & Billing"
+msgstr "Địa chỉ & Thanh toán"
+
+msgid "Notifications"
+msgstr "Thông báo"
+
+msgid "Overview"
+msgstr "Tổng quan"
+
+msgid "Security"
+msgstr "Bảo mật"
+
+msgid "Manage Reviews"
+msgstr "Quản lý đánh giá"
+
+msgid "Order Details"
+msgstr "Chi tiết đơn hàng"
+
+msgid "Order List"
+msgstr "Danh sách đơn hàng"
+
+msgid "Add Product"
+msgstr "Thêm sản phẩm"
+
+msgid "Product List"
+msgstr "Danh sách sản phẩm"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Extended UI"
+msgstr "Giao diện mở rộng"
+
+msgid "Avatar"
+msgstr "Ảnh đại diện"
+
+msgid "BlockUI"
+msgstr "BlockUI"
+
+msgid "Drag & Drop"
+msgstr "Kéo & Thả"
+
+msgid "Plyr"
+msgstr "Plyr"
+
+msgid "Miscellaneous"
+msgstr "Hỗn hợp"
+
+msgid "Perfect Scrollbar"
+msgstr "Thanh cuộn hoàn hảo"
+
+msgid "Star Ratings"
+msgstr "Đánh giá sao"
+
+msgid "SweetAlert2"
+msgstr "SweetAlert2"
+
+msgid "Text Divider"
+msgstr "Phân cách văn bản"
+
+msgid "Timeline"
+msgstr "Dòng thời gian"
+
+msgid "Fullscreen"
+msgstr "Toàn màn hình"
+
+msgid "Shepherd tour"
+msgstr "Hướng dẫn Shepherd"
+
+msgid "Treeview"
+msgstr "Cấu trúc cây"
+
+msgid "Forms"
+msgstr "Biểu mẫu"
+
+msgid "Horizontal"
+msgstr "Ngang"
+
+msgid "Layouts"
+msgstr "Bố cục"
+
+msgid "Sticky Actions"
+msgstr "Hành động cố định"
+
+msgid "Vertical"
+msgstr "Dọc"
+
+msgid "Validation"
+msgstr "Xác thực"
+
+msgid "Form Wizard"
+msgstr "Thuật sĩ biểu mẫu"
+
+msgid "Numbered"
+msgstr "Đánh số"
+
+msgid "Basic Inputs"
+msgstr "Đầu vào cơ bản"
+
+msgid "Custom Options"
+msgstr "Tùy chọn tùy chỉnh"
+
+msgid "Editors"
+msgstr "Trình soạn thảo"
+
+msgid "Extras"
+msgstr "Phần mở rộng"
+
+msgid "File Upload"
+msgstr "Tải lên tệp"
+
+msgid "Input groups"
+msgstr "Nhóm đầu vào"
+
+msgid "Pickers"
+msgstr "Bộ chọn"
+
+msgid "Select & Tags"
+msgstr "Chọn & Thẻ"
+
+msgid "Sliders"
+msgstr "Thanh trượt"
+
+msgid "Switches"
+msgstr "Công tắc"
+
+msgid "Box Icons"
+msgstr "Biểu tượng Box"
+
+msgid "Feather Icons"
+msgstr "Biểu tượng Feather"
+
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+msgid "Invoice"
+msgstr "Hóa đơn"
+
+msgid "Logistics"
+msgstr "Hậu cần"
+
+msgid "Maps"
+msgstr "Bản đồ"
+
+msgid "Leaflet"
+msgstr "Leaflet"
+
+msgid "Modal Examples"
+msgstr "Ví dụ Modal"
+
+msgid "Account Settings"
+msgstr "Cài đặt tài khoản"
+
+msgid "Account"
+msgstr "Tài khoản"
+
+msgid "Billing & Plans"
+msgstr "Thanh toán & Gói cước"
+
+msgid "Connections"
+msgstr "Kết nối"
+
+msgid "User Profile"
+msgstr "Hồ sơ người dùng"
+
+msgid "Projects"
+msgstr "Dự án"
+
+msgid "Teams"
+msgstr "Nhóm"
+
+msgid "Profile"
+msgstr "Hồ sơ"
+
+msgid "Tables"
+msgstr "Bảng"
+
+msgid "Datatables"
+msgstr "Bảng dữ liệu"
+
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgid "Extensions"
+msgstr "Tiện ích mở rộng"
+
+msgid "Transactions"
+msgstr "Giao dịch"
+
+msgid "New"
+msgstr "Mới"
+
+msgid "Transaction"
+msgstr "Giao dịch"
+
+msgid "Accordion"
+msgstr "Accordion"
+
+msgid "Alerts"
+msgstr "Cảnh báo"
+
+msgid "Badges"
+msgstr "Huy hiệu"
+
+msgid "Buttons"
+msgstr "Nút bấm"
+
+msgid "Carousel"
+msgstr "Băng chuyền ảnh"
+
+msgid "Collapse"
+msgstr "Thu gọn"
+
+msgid "Dropdowns"
+msgstr "Menu thả xuống"
+
+msgid "Footer"
+msgstr "Chân trang"
+
+msgid "List Groups"
+msgstr "Nhóm danh sách"
+
+msgid "Modals"
+msgstr "Cửa sổ Modal"
+
+msgid "Navbar"
+msgstr "Thanh điều hướng"
+
+msgid "Offcanvas"
+msgstr "Offcanvas"
+
+msgid "Pagination & Breadcrumbs"
+msgstr "Phân trang & Đường dẫn điều hướng"
+
+msgid "Progress bars"
+msgstr "Thanh tiến trình"
+
+msgid "Spinners"
+msgstr "Vòng quay tải"
+
+msgid "Tabs & Pills"
+msgstr "Thẻ & Tab"
+
+msgid "Toasts"
+msgstr "Thông báo nhanh (Toasts)"
+
+msgid "Tooltips & Popovers"
+msgstr "Chú giải & Popovers"
+
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+msgid "User"
+msgstr "Người dùng"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Wizard Examples"
+msgstr "Ví dụ Wizard"
+
+msgid "Checkout"
+msgstr "Thanh toán"
+
+msgid "Create Deal"
+msgstr "Tạo ưu đãi"
+
+msgid "Property Listing"
+msgstr "Danh sách bất động sản"
+
+msgid "Dashboards"
+msgstr "Bảng điều khiển"
+
+msgid "Collapsed menu"
+msgstr "Menu thu gọn"
+
+msgid "Content navbar"
+msgstr "Thanh điều hướng nội dung"
+
+msgid "Content nav + Sidebar"
+msgstr "Điều hướng nội dung + Thanh bên"
+
+msgid "Without menu"
+msgstr "Không có menu"
+
+msgid "Without navbar"
+msgstr "Không có thanh điều hướng"
+
+msgid "Fluid"
+msgstr "Toàn chiều rộng (Fluid)"
+
+msgid "Container"
+msgstr "Khung chứa (Container)"
+
+msgid "Blank"
+msgstr "Trang trống"
+
+msgid "Front Pages"
+msgstr "Trang ngoài"
+
+msgid "Landing"
+msgstr "Trang đích"
+
+msgid "Pricing"
+msgstr "Bảng giá"
+
+msgid "Payments"
+msgstr "Thanh toán"
+
+msgid "Help Center"
+msgstr "Trung tâm trợ giúp"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Chat"
+msgstr "Trò chuyện"
+
+msgid "Calendar"
+msgstr "Lịch"
+
+msgid "Kanban"
+msgstr "Kanban"
+
+msgid "Products"
+msgstr "Sản phẩm"
+
+msgid "Order"
+msgstr "Đơn hàng"
+
+msgid "Customer"
+msgstr "Khách hàng"
+
+msgid "Store details"
+msgstr "Chi tiết cửa hàng"
+
+msgid "Shipping & Delivery"
+msgstr "Vận chuyển & Giao hàng"
+
+msgid "Locations"
+msgstr "Địa điểm"
+
+msgid "Fleet"
+msgstr "Đội xe"
+
+msgid "Preview"
+msgstr "Xem trước"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Roles & Permissions"
+msgstr "Vai trò & Quyền hạn"
+
+msgid "Pages"
+msgstr "Trang"
+
+msgid "FAQ"
+msgstr "Câu hỏi thường gặp"
+
+msgid "Misc"
+msgstr "Khác"
+
+msgid "Error"
+msgstr "Lỗi"
+
+msgid "Under Maintenance"
+msgstr "Đang bảo trì"
+
+msgid "Form Elements"
+msgstr "Thành phần biểu mẫu"
+
+msgid "Form Layouts"
+msgstr "Bố cục biểu mẫu"
+
+msgid "Vertical Form"
+msgstr "Biểu mẫu dọc"
+
+msgid "Horizontal Form"
+msgstr "Biểu mẫu ngang"
+
+msgid "Form Validation"
+msgstr "Xác thực biểu mẫu"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Documentation"
+msgstr "Tài liệu"
+
+msgid "Coming Soon"
+msgstr "Sắp ra mắt"
+
+msgid "Not Authorized"
+msgstr "Không có quyền truy cập"
+
+msgid "Authentications"
+msgstr "Xác thực"
+
+msgid "Login"
+msgstr "Đăng nhập"
+
+msgid "Cover"
+msgstr "Bìa"
+
+msgid "Register"
+msgstr "Đăng ký"
+
+msgid "Multi-steps"
+msgstr "Nhiều bước"
+
+msgid "Verify Email"
+msgstr "Xác minh Email"
+
+msgid "Reset Password"
+msgstr "Đặt lại mật khẩu"
+
+msgid "Forgot Password"
+msgstr "Quên mật khẩu"
+
+msgid "Two Steps"
+msgstr "Hai bước"
+
+msgid "User interface"
+msgstr "Giao diện người dùng"
+
+msgid "Progress"
+msgstr "Tiến độ"
+
+msgid "Media Player"
+msgstr "Trình phát đa phương tiện"
+
+msgid "Tour"
+msgstr "Hướng dẫn"
+
+msgid "Apps & Pages"
+msgstr "Ứng dụng & Trang"
+
+msgid "Apps"
+msgstr "Ứng dụng"
+
+msgid "Components"
+msgstr "Thành phần"
+
+msgid "Forms & Tables"
+msgstr "Biểu mẫu & Bảng"
+
+msgid "Charts & Maps"
+msgstr "Biểu đồ & Bản đồ"
+
+msgid "Users"
+msgstr "Người dùng"
+
+msgid "Leaflet Maps"
+msgstr "Bản đồ Leaflet"
+
+msgid "Transactions (CRUD)"
+msgstr "Giao dịch (CRUD)"
+
+msgid "Server Error"
+msgstr "Lỗi máy chủ"

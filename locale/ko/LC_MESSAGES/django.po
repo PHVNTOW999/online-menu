@@ -11,564 +11,564 @@ msgstr ""
 "POT-Creation-Date: 2024-06-27 12:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: English <LL@li.org>\n"
-"Language: en\n"
+"Language-Team: Korean <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"Plural-Forms: nplurals=1; plural=0;\n\n"
 
 #: config/settings.py:181
 #: templates/layout/partials/navbar/navbar.html:72
 msgid "English"
-msgstr "English"
+msgstr "영어"
 
 #: config/settings.py:182
 #: templates/layout/partials/navbar/navbar.html:77
 msgid "Vietnamese"
-msgstr "Vietnamese"
+msgstr "베트남어"
 
 #: config/settings.py:183
 #: templates/layout/partials/navbar/navbar.html:82
 msgid "Korean"
-msgstr "Korean"
+msgstr "한국어"
 
 msgid "eCommerce"
-msgstr "eCommerce"
+msgstr "이커머스"
 
 msgid "Referrals"
-msgstr "Referrals"
+msgstr "추천"
 
 msgid "Icons"
-msgstr "Icons"
+msgstr "아이콘"
 
 msgid "Academy"
-msgstr "Academy"
+msgstr "아카데미"
 
 msgid "My Course"
-msgstr "My Course"
+msgstr "내 강좌"
 
 msgid "Course Details"
-msgstr "Course Details"
+msgstr "강좌 상세"
 
 msgid "Permissions"
-msgstr "Permissions"
+msgstr "권한"
 
 msgid "List"
-msgstr "List"
+msgstr "목록"
 
 msgid "Roles"
-msgstr "Roles"
+msgstr "역할"
 
 msgid "UI elements"
-msgstr "UI elements"
+msgstr "UI 요소"
 
 msgid "Cards"
-msgstr "Cards"
+msgstr "카드"
 
 msgid "Actions"
-msgstr "Actions"
+msgstr "작업"
 
 msgid "Advance"
-msgstr "Advance"
+msgstr "고급"
 
 msgid "Analytics"
-msgstr "Analytics"
+msgstr "분석"
 
 msgid "Basic"
-msgstr "Basic"
+msgstr "기본"
 
 msgid "Gamifications"
-msgstr "Gamifications"
+msgstr "게이미피케이션"
 
 msgid "Statistics"
-msgstr "Statistics"
+msgstr "통계"
 
 msgid "Charts"
-msgstr "Charts"
+msgstr "차트"
 
 msgid "Apex Charts"
-msgstr "Apex Charts"
+msgstr "Apex 차트"
 
 msgid "ChartJS"
 msgstr "ChartJS"
 
 msgid "Dashboard"
-msgstr "Dashboard"
+msgstr "대시보드"
 
 msgid "CRM"
 msgstr "CRM"
 
 msgid "Category List"
-msgstr "Category List"
+msgstr "카테고리 목록"
 
 msgid "All Customers"
-msgstr "All Customers"
+msgstr "모든 고객"
 
 msgid "Customer Details"
-msgstr "Customer Details"
+msgstr "고객 상세정보"
 
 msgid "Address & Billing"
-msgstr "Address & Billing"
+msgstr "주소 및 청구"
 
 msgid "Notifications"
-msgstr "Notifications"
+msgstr "알림"
 
 msgid "Overview"
-msgstr "Overview"
+msgstr "개요"
 
 msgid "Security"
-msgstr "Security"
+msgstr "보안"
 
 msgid "Manage Reviews"
-msgstr "Manage Reviews"
+msgstr "리뷰 관리"
 
 msgid "Order Details"
-msgstr "Order Details"
+msgstr "주문 상세"
 
 msgid "Order List"
-msgstr "Order List"
+msgstr "주문 목록"
 
 msgid "Add Product"
-msgstr "Add Product"
+msgstr "상품 추가"
 
 msgid "Product List"
-msgstr "Product List"
+msgstr "상품 목록"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "설정"
 
 msgid "Extended UI"
-msgstr "Extended UI"
+msgstr "확장 UI"
 
 msgid "Avatar"
-msgstr "Avatar"
+msgstr "아바타"
 
 msgid "BlockUI"
 msgstr "BlockUI"
 
 msgid "Drag & Drop"
-msgstr "Drag & Drop"
+msgstr "드래그 앤 드롭"
 
 msgid "Plyr"
 msgstr "Plyr"
 
 msgid "Miscellaneous"
-msgstr "Miscellaneous"
+msgstr "기타"
 
 msgid "Perfect Scrollbar"
 msgstr "Perfect Scrollbar"
 
 msgid "Star Ratings"
-msgstr "Star Ratings"
+msgstr "별점"
 
 msgid "SweetAlert2"
 msgstr "SweetAlert2"
 
 msgid "Text Divider"
-msgstr "Text Divider"
+msgstr "텍스트 구분선"
 
 msgid "Timeline"
-msgstr "Timeline"
+msgstr "타임라인"
 
 msgid "Fullscreen"
-msgstr "Fullscreen"
+msgstr "전체 화면"
 
 msgid "Shepherd tour"
-msgstr "Shepherd tour"
+msgstr "Shepherd 투어"
 
 msgid "Treeview"
-msgstr "Treeview"
+msgstr "트리뷰"
 
 msgid "Forms"
-msgstr "Forms"
+msgstr "폼"
 
 msgid "Horizontal"
-msgstr "Horizontal"
+msgstr "가로형"
 
 msgid "Layouts"
-msgstr "Layouts"
+msgstr "레이아웃"
 
 msgid "Sticky Actions"
-msgstr "Sticky Actions"
+msgstr "고정 작업"
 
 msgid "Vertical"
-msgstr "Vertical"
+msgstr "세로형"
 
 msgid "Validation"
-msgstr "Validation"
+msgstr "유효성 검사"
 
 msgid "Form Wizard"
-msgstr "Form Wizard"
+msgstr "폼 위저드"
 
 msgid "Numbered"
-msgstr "Numbered"
+msgstr "번호 매기기"
 
 msgid "Basic Inputs"
-msgstr "Basic Inputs"
+msgstr "기본 입력"
 
 msgid "Custom Options"
-msgstr "Custom Options"
+msgstr "커스텀 옵션"
 
 msgid "Editors"
-msgstr "Editors"
+msgstr "에디터"
 
 msgid "Extras"
-msgstr "Extras"
+msgstr "추가 기능"
 
 msgid "File Upload"
-msgstr "File Upload"
+msgstr "파일 업로드"
 
 msgid "Input groups"
-msgstr "Input groups"
+msgstr "입력 그룹"
 
 msgid "Pickers"
-msgstr "Pickers"
+msgstr "선택기"
 
 msgid "Select & Tags"
-msgstr "Select & Tags"
+msgstr "선택 및 태그"
 
 msgid "Sliders"
-msgstr "Sliders"
+msgstr "슬라이더"
 
 msgid "Switches"
-msgstr "Switches"
+msgstr "스위치"
 
 msgid "Box Icons"
-msgstr "Box Icons"
+msgstr "Box 아이콘"
 
 msgid "Feather Icons"
-msgstr "Feather Icons"
+msgstr "Feather 아이콘"
 
 msgid "Font Awesome"
 msgstr "Font Awesome"
 
 msgid "Invoice"
-msgstr "Invoice"
+msgstr "송장"
 
 msgid "Logistics"
-msgstr "Logistics"
+msgstr "물류"
 
 msgid "Maps"
-msgstr "Maps"
+msgstr "지도"
 
 msgid "Leaflet"
 msgstr "Leaflet"
 
 msgid "Modal Examples"
-msgstr "Modal Examples"
+msgstr "모달 예제"
 
 msgid "Account Settings"
-msgstr "Account Settings"
+msgstr "계정 설정"
 
 msgid "Account"
-msgstr "Account"
+msgstr "계정"
 
 msgid "Billing & Plans"
-msgstr "Billing & Plans"
+msgstr "청구 및 요금제"
 
 msgid "Connections"
-msgstr "Connections"
+msgstr "연결"
 
 msgid "User Profile"
-msgstr "User Profile"
+msgstr "사용자 프로필"
 
 msgid "Projects"
-msgstr "Projects"
+msgstr "프로젝트"
 
 msgid "Teams"
-msgstr "Teams"
+msgstr "팀"
 
 msgid "Profile"
-msgstr "Profile"
+msgstr "프로필"
 
 msgid "Tables"
-msgstr "Tables"
+msgstr "테이블"
 
 msgid "Datatables"
-msgstr "Datatables"
+msgstr "데이터 테이블"
 
 msgid "Advanced"
-msgstr "Advanced"
+msgstr "고급"
 
 msgid "Extensions"
-msgstr "Extensions"
+msgstr "확장 프로그램"
 
 msgid "Transactions"
-msgstr "Transactions"
+msgstr "거래 내역"
 
 msgid "New"
-msgstr "New"
+msgstr "신규"
 
 msgid "Transaction"
-msgstr "Transaction"
+msgstr "거래"
 
 msgid "Accordion"
-msgstr "Accordion"
+msgstr "아코디언"
 
 msgid "Alerts"
-msgstr "Alerts"
+msgstr "알림창"
 
 msgid "Badges"
-msgstr "Badges"
+msgstr "배지"
 
 msgid "Buttons"
-msgstr "Buttons"
+msgstr "버튼"
 
 msgid "Carousel"
-msgstr "Carousel"
+msgstr "캐러셀"
 
 msgid "Collapse"
-msgstr "Collapse"
+msgstr "접기/펼치기"
 
 msgid "Dropdowns"
-msgstr "Dropdowns"
+msgstr "드롭다운"
 
 msgid "Footer"
-msgstr "Footer"
+msgstr "바닥글"
 
 msgid "List Groups"
-msgstr "List Groups"
+msgstr "목록 그룹"
 
 msgid "Modals"
-msgstr "Modals"
+msgstr "모달"
 
 msgid "Navbar"
-msgstr "Navbar"
+msgstr "내비게이션 바"
 
 msgid "Offcanvas"
-msgstr "Offcanvas"
+msgstr "오프캔버스"
 
 msgid "Pagination & Breadcrumbs"
-msgstr "Pagination & Breadcrumbs"
+msgstr "페이지네이션 및 이동경로"
 
 msgid "Progress bars"
-msgstr "Progress bars"
+msgstr "진행률 표시줄"
 
 msgid "Spinners"
-msgstr "Spinners"
+msgstr "스피너"
 
 msgid "Tabs & Pills"
-msgstr "Tabs & Pills"
+msgstr "탭 및 알약 탭"
 
 msgid "Toasts"
-msgstr "Toasts"
+msgstr "토스트 알림"
 
 msgid "Tooltips & Popovers"
-msgstr "Tooltips & Popovers"
+msgstr "툴팁 및 팝오버"
 
 msgid "Typography"
-msgstr "Typography"
+msgstr "타이포그래피"
 
 msgid "User"
-msgstr "User"
+msgstr "사용자"
 
 msgid "View"
-msgstr "View"
+msgstr "보기"
 
 msgid "Wizard Examples"
-msgstr "Wizard Examples"
+msgstr "위저드 예제"
 
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "결제"
 
 msgid "Create Deal"
-msgstr "Create Deal"
+msgstr "거래 생성"
 
 msgid "Property Listing"
-msgstr "Property Listing"
+msgstr "부동산 매물 목록"
 
 msgid "Dashboards"
-msgstr "Dashboards"
+msgstr "대시보드"
 
 msgid "Collapsed menu"
-msgstr "Collapsed menu"
+msgstr "축소된 메뉴"
 
 msgid "Content navbar"
-msgstr "Content navbar"
+msgstr "콘텐츠 내비게이션 바"
 
 msgid "Content nav + Sidebar"
-msgstr "Content nav + Sidebar"
+msgstr "콘텐츠 내비게이션 + 사이드바"
 
 msgid "Without menu"
-msgstr "Without menu"
+msgstr "메뉴 없음"
 
 msgid "Without navbar"
-msgstr "Without navbar"
+msgstr "내비게이션 바 없음"
 
 msgid "Fluid"
-msgstr "Fluid"
+msgstr "전체 너비 (Fluid)"
 
 msgid "Container"
-msgstr "Container"
+msgstr "컨테이너"
 
 msgid "Blank"
-msgstr "Blank"
+msgstr "빈 페이지"
 
 msgid "Front Pages"
-msgstr "Front Pages"
+msgstr "프론트 페이지"
 
 msgid "Landing"
-msgstr "Landing"
+msgstr "랜딩 페이지"
 
 msgid "Pricing"
-msgstr "Pricing"
+msgstr "요금제"
 
 msgid "Payments"
-msgstr "Payments"
+msgstr "결제"
 
 msgid "Help Center"
-msgstr "Help Center"
+msgstr "고객센터"
 
 msgid "Email"
-msgstr "Email"
+msgstr "이메일"
 
 msgid "Chat"
-msgstr "Chat"
+msgstr "채팅"
 
 msgid "Calendar"
-msgstr "Calendar"
+msgstr "캘린더"
 
 msgid "Kanban"
-msgstr "Kanban"
+msgstr "칸반"
 
 msgid "Products"
-msgstr "Products"
+msgstr "상품"
 
 msgid "Order"
-msgstr "Order"
+msgstr "주문"
 
 msgid "Customer"
-msgstr "Customer"
+msgstr "고객"
 
 msgid "Store details"
-msgstr "Store details"
+msgstr "매장 상세정보"
 
 msgid "Shipping & Delivery"
-msgstr "Shipping & Delivery"
+msgstr "배송 및 전달"
 
 msgid "Locations"
-msgstr "Locations"
+msgstr "위치"
 
 msgid "Fleet"
-msgstr "Fleet"
+msgstr "차량 관리"
 
 msgid "Preview"
-msgstr "Preview"
+msgstr "미리보기"
 
 msgid "Edit"
-msgstr "Edit"
+msgstr "수정"
 
 msgid "Add"
-msgstr "Add"
+msgstr "추가"
 
 msgid "Roles & Permissions"
-msgstr "Roles & Permissions"
+msgstr "역할 및 권한"
 
 msgid "Pages"
-msgstr "Pages"
+msgstr "페이지"
 
 msgid "FAQ"
-msgstr "FAQ"
+msgstr "자주 묻는 질문"
 
 msgid "Misc"
-msgstr "Misc"
+msgstr "기타"
 
 msgid "Error"
-msgstr "Error"
+msgstr "오류"
 
 msgid "Under Maintenance"
-msgstr "Under Maintenance"
+msgstr "점검 중"
 
 msgid "Form Elements"
-msgstr "Form Elements"
+msgstr "폼 요소"
 
 msgid "Form Layouts"
-msgstr "Form Layouts"
+msgstr "폼 레이아웃"
 
 msgid "Vertical Form"
-msgstr "Vertical Form"
+msgstr "세로형 폼"
 
 msgid "Horizontal Form"
-msgstr "Horizontal Form"
+msgstr "가로형 폼"
 
 msgid "Form Validation"
-msgstr "Form Validation"
+msgstr "폼 유효성 검사"
 
 msgid "Support"
-msgstr "Support"
+msgstr "고객지원"
 
 msgid "Documentation"
-msgstr "Documentation"
+msgstr "문서"
 
 msgid "Coming Soon"
-msgstr "Coming Soon"
+msgstr "출시 예정"
 
 msgid "Not Authorized"
-msgstr "Not Authorized"
+msgstr "권한 없음"
 
 msgid "Authentications"
-msgstr "Authentications"
+msgstr "인증"
 
 msgid "Login"
-msgstr "Login"
+msgstr "로그인"
 
 msgid "Cover"
-msgstr "Cover"
+msgstr "커버"
 
 msgid "Register"
-msgstr "Register"
+msgstr "회원가입"
 
 msgid "Multi-steps"
-msgstr "Multi-steps"
+msgstr "멀티 스텝"
 
 msgid "Verify Email"
-msgstr "Verify Email"
+msgstr "이메일 인증"
 
 msgid "Reset Password"
-msgstr "Reset Password"
+msgstr "비밀번호 재설정"
 
 msgid "Forgot Password"
-msgstr "Forgot Password"
+msgstr "비밀번호 찾기"
 
 msgid "Two Steps"
-msgstr "Two Steps"
+msgstr "2단계 인증"
 
 msgid "User interface"
-msgstr "User interface"
+msgstr "사용자 인터페이스"
 
 msgid "Progress"
-msgstr "Progress"
+msgstr "진행률"
 
 msgid "Media Player"
-msgstr "Media Player"
+msgstr "미디어 플레이어"
 
 msgid "Tour"
-msgstr "Tour"
+msgstr "투어 안내"
 
 msgid "Apps & Pages"
-msgstr "Apps & Pages"
+msgstr "앱 및 페이지"
 
 msgid "Apps"
-msgstr "Apps"
+msgstr "앱"
 
 msgid "Components"
-msgstr "Components"
+msgstr "컴포넌트"
 
 msgid "Forms & Tables"
-msgstr "Forms & Tables"
+msgstr "폼 및 테이블"
 
 msgid "Charts & Maps"
-msgstr "Charts & Maps"
+msgstr "차트 및 지도"
 
 msgid "Users"
-msgstr "Users"
+msgstr "사용자"
 
 msgid "Leaflet Maps"
-msgstr "Leaflet Maps"
+msgstr "Leaflet 지도"
 
 msgid "Transactions (CRUD)"
-msgstr "Transactions (CRUD)"
+msgstr "거래 관리 (CRUD)"
 
 msgid "Server Error"
-msgstr "Server Error"
+msgstr "서버 오류"

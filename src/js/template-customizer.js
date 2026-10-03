@@ -1211,50 +1211,35 @@ TemplateCustomizer.LANGUAGES = {
     layout_navbar_label: 'Navbar Type',
     direction_label: 'Direction'
   },
-  fr: {
-    panel_header: 'Modèle De Personnalisation',
-    panel_sub_header: 'Personnalisez et prévisualisez en temps réel',
-    theming_header: 'Thématisation',
-    color_label: 'Couleur primaire',
-    theme_label: 'Thème',
-    skin_label: 'Peaux',
-    semiDark_label: 'Demi-foncé',
-    layout_header: 'Disposition',
-    layout_label: 'Menu (Navigation)',
-    layout_header_label: "Types d'en-tête",
-    content_label: 'Contenu',
-    layout_navbar_label: 'Type de barre de navigation',
-    direction_label: 'Direction'
+  vi: {
+    panel_header: 'Tùy chỉnh giao diện',
+    panel_sub_header: 'Tùy chỉnh và xem trước theo thời gian thực',
+    theming_header: 'Chủ đề',
+    color_label: 'Màu chính',
+    theme_label: 'Giao diện',
+    skin_label: 'Giao diện hiển thị',
+    semiDark_label: 'Nửa tối',
+    layout_header: 'Bố cục',
+    layout_label: 'Menu (Điều hướng)',
+    layout_header_label: 'Loại tiêu đề',
+    content_label: 'Nội dung',
+    layout_navbar_label: 'Loại thanh điều hướng',
+    direction_label: 'Hướng'
   },
-  ar: {
-    panel_header: 'أداة تخصيص القالب',
-    panel_sub_header: 'تخصيص ومعاينة في الوقت الحقيقي',
-    theming_header: 'السمات',
-    color_label: 'اللون الأساسي',
-    theme_label: 'سمة',
-    skin_label: 'جلود',
-    semiDark_label: 'شبه داكن',
-    layout_header: 'تَخطِيط',
-    layout_label: 'القائمة (الملاحة)',
-    layout_header_label: 'أنواع الرأس',
-    content_label: 'محتوى',
-    layout_navbar_label: 'نوع شريط التنقل',
-    direction_label: 'اتجاه'
-  },
-  de: {
-    panel_header: 'Vorlagen-Anpasser',
-    panel_sub_header: 'Anpassen und Vorschau in Echtzeit',
-    theming_header: 'Themen',
-    color_label: 'Grundfarbe',
-    theme_label: 'Thema',
-    skin_label: 'Skins',
-    semiDark_label: 'Halbdunkel',
-    layout_header: 'Layout',
-    layout_label: 'Menü (Navigation)',
-    layout_header_label: 'Header-Typen',
-    content_label: 'Inhalt',
-    layout_navbar_label: 'Art der Navigationsleiste',
-    direction_label: 'Richtung'
+  ko: {
+    panel_header: '템플릿 커스터마이저',
+    panel_sub_header: '실시간 맞춤설정 및 미리보기',
+    theming_header: '테마 설정',
+    color_label: '기본 색상',
+    theme_label: '테마',
+    skin_label: '스킨',
+    semiDark_label: '세미 다크',
+    layout_header: '레이아웃',
+    layout_label: '메뉴 (내비게이션)',
+    layout_header_label: '헤더 유형',
+    content_label: '콘텐츠',
+    layout_navbar_label: '내비게이션 바 유형',
+    direction_label: '방향'
   }
 }
 

@@ -179,9 +179,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # Enable i18n and set the list of supported languages
 LANGUAGES = [
     ("en", _("English")),
-    ("fr", _("French")),
-    ("ar", _("Arabic")),
-    ("de", _("German")),
+    ("vi", _("Vietnamese")),
+    ("ko", _("Korean")),
     # Add more languages as needed
 ]
 
