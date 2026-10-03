@@ -22,7 +22,7 @@ COPY . ${APP_HOME}
 
 # install frontend dependencies and build vendor/static assets
 WORKDIR ${APP_HOME}/src
-RUN npm install
+RUN npm install --legacy-peer-deps
 RUN npm run build
 WORKDIR ${APP_HOME}
 
